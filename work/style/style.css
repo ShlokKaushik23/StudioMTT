@@ -1318,6 +1318,12 @@ margin-left: 24px;
    }
 
 
+   .gallery_container.templateB{
+       padding: 0 140px;
+
+   }
+
+
 @media screen and (max-width: 1024px) and (orientation: landscape){
   :root{
 
